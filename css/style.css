@@ -62,8 +62,7 @@ img {
 }
 /*..................HEADER FOR ALL PAGES.........................*/
 .header {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    
     border-bottom: 1px solid #ECECEC;
 }
 .header .container {
@@ -200,6 +199,7 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
 
+    max-width: 1600px;
 }
 .hero-title {
     font-weight: 900;
