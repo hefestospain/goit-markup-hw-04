@@ -200,6 +200,8 @@ img {
     background-size: cover;
 
     max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .hero-title {
     font-weight: 900;
